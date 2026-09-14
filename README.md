@@ -32,4 +32,4 @@ Other M3U/M3U8-compatible platforms
 
 Use the raw GitHub playlist URL:
 
-https://raw.githubusercontent.com/streamlay633-lang/iptv-dz-channels/refs/heads/main/playlists.m3u8
+https://raw.githubusercontent.com/streamlay633-lang/iptv-dz-channels/refs/heads/main/playlists/dz_playlists.m3u
