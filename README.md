@@ -31,16 +31,39 @@ The playlist is compatible with applications and platforms that support M3U/M3U8
 - 💻 Desktop media players
 - 🔌 Other M3U/M3U8-compatible applications
 
-📖 How to Use?
+▶️ How to Use or Watch?
 
+You can watch the available channels on desktop computers, mobile phones, tablets, and Smart TVs using an IPTV player or media player that supports M3U/M3U8 playlists.
+
+💻 Desktop — Windows, macOS & Linux
 1 -📋 Copy the playlist URL.
-2 -📱 Open an IPTV application or media player that supports M3U/M3U8 playlists.
-3 -🔗 Select the option to add a network, remote, or M3U playlist.
+2 -🎬 Open a compatible IPTV application or VLC Media Player.
+3 -🔗 Select Open Network Stream, Add Playlist, or a similar option.
 4 -📥 Paste the playlist URL.
-5 - ▶️ Load the playlist and select an available channel.
-6 -📄 Playlist Format
+5 -▶️ Load the playlist and select a channel.
 
-The playlist uses the standard M3U/M3U8 format and is intended for use with compatible IPTV players and applications.
+📱 Mobile — Android & iOS
+1 -📋 Copy the playlist URL.
+2 -📱 Open a compatible IPTV application.
+3 -🔗 Choose Add Playlist or Add Playlist by URL.
+4 -📥 Paste the playlist URL.
+5 -▶️ Load the playlist and select a channel.
+
+📲 Tablet — Android & iPadOS
+1 -📋 Copy the playlist URL.
+2 -📱 Open an IPTV application that supports M3U/M3U8 playlists.
+3 -🔗 Add the playlist using its URL.
+4 -📥 Paste the playlist URL.
+5 -▶️ Load the playlist and choose an available channel.
+
+📺 Smart TV
+1 -📋 Copy the playlist URL.
+2 -📺 Open an IPTV application installed on your Smart TV.
+3 -🔗 Select Add Playlist, Remote Playlist, or a similar option.
+4 -📥 Enter or paste the playlist URL.
+5 -▶️ Load the playlist and select an available channel.
+
+ℹ️ Playback depends on the availability of the individual streams and the compatibility of your device or IPTV application.
 
 🔄 Updates
 
