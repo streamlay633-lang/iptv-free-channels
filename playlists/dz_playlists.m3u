@@ -9,3 +9,5 @@ https://live.elheddaftv.com:8081/elheddaftv/index.m3u8
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://i.imgur.com/cKPRVB1.png" group-title="Algeria",CNA
 https://live.creacast.com/cna/stream/playlist.m3u8
+#EXTINF:-1 tvg-name="StoryChannel TV" tvg-logo="https://i.imgur.com/R80Y0An.png" group-title="Algeria",StoryChannel TV
+https://136044159.r.cdnsun.net/storychannel.m3u8
